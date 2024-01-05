@@ -1,1 +1,3 @@
-# SinWavelet
+# A Single 3D Shape Wavelet-based Generative Model
+
+Coming soon...

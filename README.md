@@ -14,7 +14,7 @@ and please check https://pytorch.org/ for pytorch installation command for your 
 ## Pretrained models
 We provide the pretrained models for Table 2 in our paper [here](https://drive.google.com/file/d/1FXk0_AF6J1BMGLtqvv6csDByqvt0XlqS/view?usp=sharing). 
 Downloading all of them needs about 1.7G storage space:
-```base
+```bash
 bash download_models.sh
 ```
 

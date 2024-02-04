@@ -6,6 +6,12 @@
 - Cuda 11.8
 - Trimesh 4.1
 - PyWavelets 1.5
+
+Or install dependencies with conda:
+```bash
+conda env create -f environment.yml
+conda activate sinwavelet
+```
 ```angular2html
 # NOTE: The versions of the dependencies listed above are only for reference, 
 and please check https://pytorch.org/ for pytorch installation command for your CUDA version.

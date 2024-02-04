@@ -1,7 +1,8 @@
 #!/bin/bash
 
 source ~/.bashrc
-conda activate torch2.0_cuda11.8
+#conda activate torch2.0_cuda11.8
+conda activate sinwavelet
 
 export CUDA_PATH=/share/apps/NYUAD/cuda/11.8.0
 

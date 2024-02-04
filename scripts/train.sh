@@ -17,7 +17,8 @@
 #SBATCH --mail-user=hh1811@nyu.edu
 
 source ~/.bashrc
-conda activate torch2.0_cuda11.8
+#conda activate torch2.0_cuda11.8
+conda activate sinwavelet
 
 min_res=4
 alpha=10

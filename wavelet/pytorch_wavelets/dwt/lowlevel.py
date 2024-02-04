@@ -4,7 +4,8 @@ import torch
 import torch.nn.functional as F
 import numpy as np
 from torch.autograd import Function
-from pytorch_wavelets.utils import reflect
+# from pytorch_wavelets.utils import reflect
+from ..utils import reflect
 import pywt
 
 

@@ -1,5 +1,11 @@
 # A Single 3D Shape Wavelet-based Generative Model
 
+This repository contains the official source code and data for our paper:
+
+>[A single 3D shape wavelet-based generative model](https://www.sciencedirect.com/science/article/pii/S0097849324000189)
+> 
+> Computer & Graphics, 2024.
+
 ## Primary dependencies
 - Python 3.9+
 - PyTorch 2.0+
@@ -19,10 +25,7 @@ and please check https://pytorch.org/ for pytorch installation command for your 
 
 ## Pretrained models
 We provide the pretrained models for Table 2 in our paper [here](https://drive.google.com/file/d/1FXk0_AF6J1BMGLtqvv6csDByqvt0XlqS/view?usp=sharing). 
-Downloading all of them needs about 1.7G storage space:
-```bash
-bash download_models.sh
-```
+Downloading all of them needs about 1.7G storage space.
 
 ## Data preparation
 ### Download data
@@ -76,8 +79,16 @@ Our code is built upon the repositories [SingleShapeGen](https://github.com/Chri
 We would appreciate their authors.
 
 ## Citation
-```angular2html
-TBD
+If you find our repo useful for your research, please consider citing our paper:
+```
+@article{huang2024single,
+  title={A single 3D shape wavelet-based generative model},
+  author={Huang, Hao and Yuan, Shuaihang and Peng, Zheng and Hao, Yu and Wen, Congcong and Fang, Yi},
+  journal={Computers \& Graphics},
+  pages={103891},
+  year={2024},
+  publisher={Elsevier}
+}
 ```
 
 

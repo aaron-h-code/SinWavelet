@@ -2,7 +2,7 @@
 
 This repository contains the official source code and data for our paper:
 
->[A single 3D shape wavelet-based generative model](https://www.sciencedirect.com/science/article/pii/S0097849324000189)
+>[A single 3D shape wavelet-based generative model](https://www.sciencedirect.com/science/article/pii/S0097849324000189) or from Google Drive [here](https://drive.google.com/file/d/16Y_SfjLQRZHRUbDdUchua_9OHiJwOBlc/view?usp=sharing)
 > 
 > Computer & Graphics, 2024.
 
